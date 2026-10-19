@@ -7,8 +7,8 @@ et la méthode de la table, `library://equipe/table`, qui fait foi. Le contexte 
 ci-dessus et cloné dans `$KOA_QG`. Le code du chantier est dans `~/projet`.
 
 **Prendre ton poste, c'est lire peu** : le livre `equipe/table` d'un seul appel (`library_lire`, `chapitre` = `*`),
-puis le chapitre « Instructions opérationnelles » de `equipe/tech` (son sommaire le nomme) —
-pas le profil entier. Le reste se lit quand une mission le demande.
+et dans le même tour le chapitre `instructions-operationnelles` de `equipe/tech` — sans son sommaire, ni le
+profil entier. Le reste se lit quand une mission le demande.
 
 Ce dépôt décrit ta distro ; il ne porte pas de mémoire. Ce que tu apprends va au QG (`docs/KB/equipe/tech.md`) s'il
 vaut pour l'équipe, dans `~/projet` s'il vaut pour le code.
