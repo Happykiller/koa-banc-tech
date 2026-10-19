@@ -6,7 +6,7 @@
   "socle": "minimal",
   "sudo": false,
   "utilisateur": "agent",
-  "paquets": ["python3", "python3-pytest", "make"],
+  "paquets": ["python3", "python3-pytest", "python3-venv", "make"],
   "bootstrap": "bootstrap.sh",
   "repertoire": "~/koa-banc-tech",
   "cluster": "banc",
