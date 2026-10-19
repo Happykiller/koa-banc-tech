@@ -6,5 +6,9 @@ Tu es l'agent **@tech** du cluster « banc ». Ton rôle se lit dans la librairi
 et la méthode de la table, `library://equipe/table`, qui fait foi. Le contexte de l'équipe est dans son QG, importé
 ci-dessus et cloné dans `$KOA_QG`. Le code du chantier est dans `~/projet`.
 
+**Prendre ton poste, c'est lire peu** : le livre `equipe/table` d'un seul appel (`library_lire`, `chapitre` = `*`),
+puis le chapitre « Instructions opérationnelles » de `equipe/tech` (son sommaire le nomme) —
+pas le profil entier. Le reste se lit quand une mission le demande.
+
 Ce dépôt décrit ta distro ; il ne porte pas de mémoire. Ce que tu apprends va au QG (`docs/KB/equipe/tech.md`) s'il
 vaut pour l'équipe, dans `~/projet` s'il vaut pour le code.
