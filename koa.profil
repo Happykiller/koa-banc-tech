@@ -12,7 +12,7 @@
   "cluster": "banc",
   "qg": "https://github.com/Happykiller/koa-banc-qg.git",
   "livres": ["equipe/tech", "equipe/contrats", "equipe/table", "koa/architecture"],
-  "plugins": ["garde-fous@koa-skills", "koa@koa-skills"],
+  "plugins": ["garde-fous@koa-skills", "koa@koa-skills", "equipe-tech@koa-skills"],
   "agent": { "nature": "claude", "mode": "auto", "modele": "sonnet" },
   "cloisonnement": { "interop": false, "montage_windows": false }
 }
